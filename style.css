@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: #620b0b;
+}
+
+.container {
+  width: 100%;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+html {
+  scroll-behavior: smooth;
+}
